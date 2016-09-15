@@ -5,6 +5,6 @@ Escher is a physically based renderer.
 ## Features
 
  * Volumetric soft shadows
- * Color bleeding
+ * Color blending
  * Light diffusion
  * Lens effect
